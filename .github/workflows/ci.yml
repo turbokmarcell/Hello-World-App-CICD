@@ -1,8 +1,8 @@
 on:
   push:
-    branches: [ clean2 ]
+    branches: [ main ]
   pull_request:
-    branches: [ clean2 ]
+    branches: [ main ]
 jobs:
   build:
     name: Build Node App
