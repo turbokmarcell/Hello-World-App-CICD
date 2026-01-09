@@ -63,4 +63,3 @@ jobs:
         with:
           app-name: hello-cicd-app
           package: .
-          scm-do-build-during-deploy: true
